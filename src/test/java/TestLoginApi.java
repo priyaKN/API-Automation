@@ -19,8 +19,8 @@ public class TestLoginApi extends BaseTest {
         TestPlanReader          d    = new TestPlanReader();
         ArrayList               data = d.getData("Invalid Login", "Valid Login");
         HashMap<String, Object> map  = new HashMap<String, Object>();
-        map.put("username", data.get(1));
-        map.put("password", data.get(2));
+        map.put("Username", data.get(1));
+        map.put("Password", data.get(2));
         RestAssured.baseURI = prop.getProperty("HOST");
         given().
                 header("Content-Type", "application/json").
