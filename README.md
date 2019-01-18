@@ -2,7 +2,7 @@
 
 Getting Started
 
- API Automation
+ **API Automation**
  
    Q. Navigate to https://shipt.com/login to find exact url for the login endpoint. Write a custom API
     test framework that does the following:
@@ -15,14 +15,14 @@ Getting Started
     Ruby/Rspec
     Go/Testify
     
-    Ans:  #https://github.com/priyaKN/API-Automation - link to the above question in project
+    Ans:  https://github.com/priyaKN/API-Automation - link to the above question in project
     
     This link has a customized project created for **API Automation** **part** of the assessment, that does all the specified requirements for above question. 
     
     Considering above requirement as a user story, all the acceptance criteria is met for the above requirement with the project specified in above link.
     
     
- Automation Assessment
+ **Automation Assessment**
         1. If you chose to use a tool or language other than the recommended, briefly explain why.
         2. How do you debug a failed test in your test framework?
         3. What do you believe are the most common causes for instability in UI automation?
