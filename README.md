@@ -36,3 +36,15 @@ Getting Started
         What could be the possible reasons for instability of UI Automation
         **Best practices for :** How do i make my tests consistent and easy to debug
    
+   
+ Tools, Technologies and Libraries used:
+        
+         RestAssured
+         TestNG
+         log4j
+         Maven
+         Java
+         
+         
+ Thanks
+ Nandini
