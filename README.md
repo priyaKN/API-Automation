@@ -28,7 +28,7 @@ Getting Started
         3. What do you believe are the most common causes for instability in UI automation?
         4. How do you make your tests consistent and easy to debug?
            
-        Ans:  ShiptAssessment\automationAssessment-Last Part\Automation Assessment.docx - link to this question
+        Ans:  ShiptAssessment\automationAssessment-Last Part\Automation Assessment.docx - link to this question in the project
         
         **This document gives reasoning on:**
         why did i choose to use the different tool fromt he recommended. 
